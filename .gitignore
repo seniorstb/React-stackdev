@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-.gitcomand.md
+/gitcomand.md
 
 # testing
 /coverage
